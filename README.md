@@ -29,7 +29,7 @@ The **SRTF Scheduler** is a preemptive CPU scheduling algorithm that always pick
 ## 🛠️ Technologies Used
 
 - Programming Language: Python 🐍  
-- GUI Library: *[Add your GUI library here, e.g., Tkinter, PySimpleGUI]* 🎨
+- GUI Library: *[Tkinter]* 🎨
 
 ---
 
